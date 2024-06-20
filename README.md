@@ -13,6 +13,8 @@
 
 # You must know that you will need a VPN to play this game, after installing the VPN select the country Japan and activate the VPN.
 
+When creating your account, choose the continent "Asia" and select "Japan" as your country.
+
 Important: during the game installation, uncheck the launcher's automatic startup checkbox when starting Windows.
 ![img](https://github.com/mirudo2/BP-UEVR/blob/main/img/1.png)
 
