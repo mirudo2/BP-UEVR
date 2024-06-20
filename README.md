@@ -1,3 +1,4 @@
+# *** Do not use this on your main account ***
 # Starting the game with UEVR:
 
 1. Download the [UEVR](https://github.com/praydog/UEVR/releases) mod if you don't have it.
