@@ -14,3 +14,10 @@
 
 Important: during the game installation, uncheck the launcher's automatic startup checkbox when starting Windows.
 ![img](https://github.com/mirudo2/BP-UEVR/blob/main/img/1.png)
+
+This checkbox is also present in the launcher configuration.
+![img](https://github.com/mirudo2/BP-UEVR/blob/main/img/2.png)
+
+That's all, now you can start the game normally from the launcher.
+
+Note, it is not possible to use the translation mod together with UEVR, because they both use the dll "dinput8.dll", but they are different dlls.
