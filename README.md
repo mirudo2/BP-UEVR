@@ -26,4 +26,6 @@ Access the Windows services window, search for the "Bandai Namco" service, and s
 
 That's all, now you can start the game normally from the launcher.
 
+** Never run the launcher without activating the VPN first, or you will be caught.
+
 Note, it is not possible to use the translation mod together with UEVR, because they both use the dll "dinput8.dll", but they are different dlls.
